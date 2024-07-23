@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Munachi-Obaregwu
-- 👀 I’m interested in C, C#, Java
-- 🌱 I’m currently learning JavaScript, Python, 
+- 👀 I’m interested in C#, Java
+- 🌱 I’m currently learning JavaScript, Python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
